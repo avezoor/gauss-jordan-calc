@@ -37,11 +37,11 @@ function gauss()
   end
 
   % Menampilkan matriks awal
+  clc
   fprintf('Author: <OBERON AVEZOOR>\n');
   fprintf('Project: Gauss Jordan Elimination Calculator\n');
   fprintf('Created: 2024-05-26>\n');
   fprintf('Augmented Matrix yang diinputkan:\n');
-  clc
   fprintf('Augmented Matriks :\n');
   disp(A);
   fprintf('\n');
