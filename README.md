@@ -1,6 +1,6 @@
 ## Deskripsi
 
-Gauss Jordan Elimination adalah sebuah program sederhana yang diimplementasikan dalam Octave, sebuah lingkungan pemrograman open-source untuk komputasi numerik. Program ini memungkinkan pengguna untuk menyelesaikan sistem persamaan linear menggunakan metode eliminasi Gauss-Jordan, yang menghasilkan matriks dalam bentuk Reduced Row Echelon Form (RREF). Proyek ini juga mencakup kalkulator lainnya untuk kebutuhan perhitungan matematika yang lebih umum.
+Gauss Jordan Elimination adalah sebuah program sederhana yang diimplementasikan dalam Octave, sebuah lingkungan pemrograman open-source untuk komputasi numerik. Program ini memungkinkan pengguna untuk menyelesaikan sistem persamaan linear menggunakan metode eliminasi Gauss-Jordan, yang menghasilkan matriks dalam bentuk Reduced Row Echelon Form (RREF). Proyek ini juga mencakup kalkulator lainnya untuk kebutuhan perhitungan matematika yang lebih umum. Dapatkan Octave (versi gratis matlab) disini https://octave.org/download
 
 ## Fitur-fitur
 
